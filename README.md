@@ -1,2 +1,17 @@
-# InfoChallenge-IC25060
-UMD Info Challenge 2025. Team IC25060
+### UMD InfoChallenge2025
+# Team IC25060 - Trend Analyses of Washington Metro Ridership
+
+## Team members
+Bei-Yu Xing  
+I-Hsien Chen  
+Shuo-An Wu  
+Chen-Wei Lee
+
+## What is the project?
+This is a data analytics team project we did for IC2025, a one-week competition aimed to expose students in real-life problems. The main goal of the project is to analyze the public DC WMATA Metro Average Ridership data to analyze trends across a time period across different stations.  Perform exploratory data analysis to find trends, patterns, outliers, etc. and see if teams can formulate guesses on why those trends or outliers happened.
+
+## Presentation slides
+<ins>Link</ins>
+
+## Analyses
+See the graphs and programs individually here on Github. Otherwise, please refer to the presentation linked above.
